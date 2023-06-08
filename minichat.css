@@ -1,0 +1,31 @@
+.form{
+    border: 2px solid white;
+    margin-left: 480px;
+    margin-right: 480px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.submit{
+    background-color: black;
+    color: white;
+}
+.mess{
+    border: 1px solid white;
+    margin-left: 420px;
+    margin-right: 420px;
+    border-radius: 20px;
+    background-color: black;
+    color: white;
+}
+.corps{
+    background-color: black;
+    color: white;
+}
+.bas{
+    text-decoration-color: white;
+    color: white;
+}
+.actualiser{
+    background-color: black;
+    color: white;
+}
